@@ -1,4 +1,3 @@
-📄 README.md
 🏰 Project Realm
     The Pizza Sales Lab Project is a relational database designed to manage the daily operations of a pizzeria. It acts as the "Single Source of Truth" for menu management, inventory tracking, and sales analytics.
 
